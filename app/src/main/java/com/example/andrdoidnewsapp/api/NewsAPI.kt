@@ -1,6 +1,6 @@
 package com.example.andrdoidnewsapp.api
 
-import com.example.andrdoidnewsapp.NewsResponse
+import com.example.andrdoidnewsapp.models.NewsResponse
 import com.example.andrdoidnewsapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
